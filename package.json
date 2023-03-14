@@ -1,0 +1,23 @@
+{
+  "name": "anya-social-netvork",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0",
+    "nodemon": "^2.0.21",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6",
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
